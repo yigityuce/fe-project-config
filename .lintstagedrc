@@ -1,0 +1,4 @@
+{
+	"src/**/*.{ts,tsx}": ["npm run eslint", "npm run tslint"],
+	"**/*.{css,scss}": "npm run stylelint"
+}
