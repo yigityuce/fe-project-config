@@ -39,6 +39,10 @@
 	  "dist",
 	  "build"
 	],
+	"include": [
+	  "src/**/*.ts",
+	  "src/**/*.tsx"
+	],
 	"awesomeTypescriptLoaderOptions": {
 	  "forkChecker": true,
 	  "useWebpackText": true
